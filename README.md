@@ -2,7 +2,7 @@
 ## Automatically answer FaceTime calls on OSX
 
 I'm going on vacation and wanted to stay in contact with my beloved pet cat.
-Rather than shelling out money for a video baby monitor or similar device, I wanted to use the hardware I already have.
+Rather than shelling out money for a video baby monitor or similar device, I'd prefer to use the hardware I already have.
 
 After some research, I found that using the following plist keys should allow you to toggle this behavior:
 
