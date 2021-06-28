@@ -1,4 +1,4 @@
-set contacts to {"foo"}
+set contacts to { ${{ secrets.TRUSTEDCONTACT }} }
 
 repeat
 	repeat while application "FaceTime" is running
